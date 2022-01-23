@@ -1,0 +1,22 @@
+ .home-cover{
+     display: flex;
+     flex-direction: column;
+ }
+
+@media only screen and (min-width: 768px){
+    .home-cover{
+        padding: 50px;
+    }
+
+    .img-div{
+        width: 50%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 1040px){
+    .home-cover{
+        width: 40%;
+        margin: auto;
+    }
+}
