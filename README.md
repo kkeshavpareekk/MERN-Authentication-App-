@@ -5,3 +5,5 @@
 - Login, Register
 - used JsonWebToken for authentication
 - used cookies for storing token
+- Error handling using error middleware 
+- route protection
